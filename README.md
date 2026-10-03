@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of nearata/flarum-ext-no-self-likes.** Not for installation: use [Packagist](https://packagist.org/packages/nearata/flarum-ext-no-self-likes) or the [upstream repository](https://github.com/Nearata/flarum-ext-no-self-likes).
 
-**0** versions archived · Latest: [`v1.2.1`](https://github.com/flarchive/nearata-flarum-ext-no-self-likes/tree/archive/v1.2.1) · License: `Unlicense` · Flarum: `^1.0.0`
+**4** versions archived · Latest: [`v1.2.1`](https://github.com/flarchive/nearata-flarum-ext-no-self-likes/tree/archive/v1.2.1) · License: `Unlicense` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2021-04-04 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-no-self-likes/tree/archive/v1.0.0) |
+| `v1.1.0` | 2021-04-05 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-no-self-likes/tree/archive/v1.1.0) |
+| `v1.2.0` | 2021-06-02 | `^1.0.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-no-self-likes/tree/archive/v1.2.0) |
+| `v1.2.1` | 2022-08-04 | `^1.0.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-no-self-likes/tree/archive/v1.2.1) |
 
 Catalog entry: [packages/nearata-flarum-ext-no-self-likes.json](https://github.com/flarchive/archive-index/blob/main/packages/nearata-flarum-ext-no-self-likes.json)
 
